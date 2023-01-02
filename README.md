@@ -1,4 +1,7 @@
 # Test312s
+
+## Introduccion
+
 Probando como crear un repositorio y sus configuraciones
 Junto a muchas diversidades como lo es Github
 Creando mediante esta hoja de README.MD
@@ -14,3 +17,7 @@ if (sscanf("hello 100", "ii", num1, num2))
 }
 
 ```
+## Contents
+
+* 1 [Introduction](#introduction)
+* 2 [Contents](#contents)

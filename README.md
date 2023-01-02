@@ -21,3 +21,9 @@ if (sscanf("hello 100", "ii", num1, num2))
 
 * 1 [Introduction](#introduction)
 * 2 [Contents](#contents)
+  * 9.10 [`SSCANF_VersionBCD();`](#sscanf_versionbcd)
+    * 9.10 [`SSCANF_VersionBCD();`](#sscanf_versionbcd)
+    
+### SA:MP Windows
+
+Add `sscanf` to the start of the `plugins` line in `server.cfg`.  For example:
